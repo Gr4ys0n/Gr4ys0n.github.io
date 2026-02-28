@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/uv/service/',
-    bare: "https://i-thought-i-could-trust-you-no-diddy-dog.satucat.uk/tspmo/",
+    bare: "https://wilway.today/crazim/",
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
