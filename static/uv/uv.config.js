@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/uv/service/',
-    bare: "https://wilway.today/crazim/",
+    bare: "https://desmossciencehelp.global.ssl.fastly.net/b/",
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
